@@ -50,5 +50,5 @@ https://wa.me/916262814965
 ‌Telegram Channel → https://t.me/You_B_Tech
 ‌YouTube → https://www.youtube.com/@You_B_Tech
 ‌Instagram → https://www.instagram.com/you_b_tech
-‌Wedsite → https://youbtech.xyz
+Wedsite → https://youbtech.xyz
  
