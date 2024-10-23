@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Future<String> _getAIResponse(String message) async {
     const url =
-        'https://backend.buildpicoapps.com/aero/run/llm-api?pk=v1-Z0FBQUFBQm0zRjd0Mlpqb1NzYm5sM0VRU2c2WHF1MlpkZENKUEVOR043VnBlZDhBOFBpQ09VWmtjYUt3SzFGRGplbkxEaUhyMXhzT3VXV0ktVnhOWWFWQVR2d2gzZHkyN1E9PQ==';
+        'YOUR API Key';
 
     try {
       final response = await http.post(
